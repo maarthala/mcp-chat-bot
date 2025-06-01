@@ -1,0 +1,5 @@
+POST http://localhost:8000/chat 
+Content-Type: application/json
+Accept: application/json
+
+{"query": "what products are in order 10249"}
